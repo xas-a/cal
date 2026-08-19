@@ -1,56 +1,7 @@
 {
     "_meta": {
         "program_found_for_date": "19.08.2026",
-        "updated_at": "2026-08-19 05:38:22"
-    },
-    "2217849": {
-        "title": "Steckerlfischfiasko",
-        "fsk": 12,
-        "trailerUrl": null,
-        "genres": [
-            "Komödie",
-            "Krimi"
-        ],
-        "description": "(*) Komödie * Deutschland * Regie: Ed Herzog;  * Drehbuch: ;(*) Darsteller: Sebastian Bezzel, Simon Schwarz, Lisa Maria Potthoff;Ein neuer Fall für das Dreamteam Franz Eberhofer und Rudi Birkenberger: Diesmal liegt der hiesige Steckerlfischkönig höchstselbst und mausetot in der Wellnesslandschaft des neuen Golfclubs. Der Franz ermittelt unter dubiosen Volksfestclans und golfenden Schickimickiarschlöchern, während seine Susi ganz andere Pläne hat: Sie kandidiert als Bürgermeisterin, was bei Franz und dem amtierenden Dorfoberhaupt hochgradig nervöse Zuckungen auslöst ... (Quelle: Verleih)",
-        "length": 99,
-        "rating_average": null,
-        "startingDate": "2026-08-13",
-        "poster_url": "https://api4.kinotickets.online/autokino-muenchen/api/v1/images/2217849_steckerlfischfiasko.jpg",
-        "technology_name": "2D",
-        "thisWeek": true
-    },
-    "2273398": {
-        "title": "Dirty Dancing",
-        "fsk": 12,
-        "trailerUrl": null,
-        "genres": [
-            "Drama",
-            "Musik",
-            "Liebesfilm"
-        ],
-        "description": "(*) Musikfilm, Liebesfilm * USA * Regie: Emile Ardolino;  * Drehbuch: Eleanor Bergstein;(*) Darsteller: Cynthia Rhodes, Jack Weston, Jennifer Grey, Jerry Orbach, Patrick Swayze;Es soll die Zeit ihres Lebens werden. Aber als die 17-jährige Frances Houseman im Sommer '63 mit ihrer Familie in die Ferien fährt, sieht alles anfangs eher nach einem langweiligen und spießigen Urlaub mit den Eltern aus. Zumindest so lange, bis sie den Tanzlehrer Johnny kennen lernt und mit ihm die Liebe. Denn während er ihr das Tanzen beibringt, zeigt sie ihm, wie wichtig es ist, immer an sich zu glauben. Und so ist ihr letzter gemeinsamer Tanz nicht nur das Ende der Saison. Es ist mehr. (j.b.)",
-        "length": 100,
-        "rating_average": null,
-        "startingDate": "2026-08-20",
-        "poster_url": "https://api4.kinotickets.online/autokino-muenchen/api/v1/images/2273398_dirty_dancing.jpg",
-        "technology_name": "2D",
-        "thisWeek": true
-    },
-    "419998": {
-        "title": "Cars  --  zum 20. Jubiläum",
-        "fsk": 0,
-        "trailerUrl": null,
-        "genres": [
-            "Komödie",
-            "Trickfilm"
-        ],
-        "description": "(*) Komödie, Trickfilm * USA * Regie: John Lasseter;  * Drehbuch: Dan Fogelman, John Lasseter, Kiel Murray, Phil Lorin;(*) Darsteller: ;Lightning McQueen, ein roter Sportwagen mit übermäßigem Selbstbewusstsein, hat einen Traum: Er will eines Tages ein großes Rennen fahren, um damit den Durchbruch zu schaffen. Doch allein der Weg zur Rennstrecke gestaltet sich schwieriger als zunächst gedacht. Mitten in der Wüste, in einem Örtchen namens Radiator Springs, muss das sportliche Gefährt eine Zwangspause einlegen. Wider Erwarten lernt er dabei aber allerhand über die Wichtigkeit von Freundschaft und Familie. (nki)",
-        "length": 112,
-        "rating_average": null,
-        "startingDate": "2026-09-03",
-        "poster_url": "https://api4.kinotickets.online/autokino-muenchen/api/v1/images/419998_cars______zum_20__jubil_um.jpg",
-        "technology_name": "2D",
-        "thisWeek": false
+        "updated_at": "2026-08-19 05:40:44"
     },
     "2251847": {
         "title": "Obsession - Du sollst mich lieben",
@@ -84,6 +35,38 @@
         "technology_name": "2D",
         "thisWeek": true
     },
+    "419998": {
+        "title": "Cars  --  zum 20. Jubiläum",
+        "fsk": 0,
+        "trailerUrl": null,
+        "genres": [
+            "Komödie",
+            "Trickfilm"
+        ],
+        "description": "(*) Komödie, Trickfilm * USA * Regie: John Lasseter;  * Drehbuch: Dan Fogelman, John Lasseter, Kiel Murray, Phil Lorin;(*) Darsteller: ;Lightning McQueen, ein roter Sportwagen mit übermäßigem Selbstbewusstsein, hat einen Traum: Er will eines Tages ein großes Rennen fahren, um damit den Durchbruch zu schaffen. Doch allein der Weg zur Rennstrecke gestaltet sich schwieriger als zunächst gedacht. Mitten in der Wüste, in einem Örtchen namens Radiator Springs, muss das sportliche Gefährt eine Zwangspause einlegen. Wider Erwarten lernt er dabei aber allerhand über die Wichtigkeit von Freundschaft und Familie. (nki)",
+        "length": 112,
+        "rating_average": null,
+        "startingDate": "2026-09-03",
+        "poster_url": "https://api4.kinotickets.online/autokino-muenchen/api/v1/images/419998_cars______zum_20__jubil_um.jpg",
+        "technology_name": "2D",
+        "thisWeek": false
+    },
+    "2217849": {
+        "title": "Steckerlfischfiasko",
+        "fsk": 12,
+        "trailerUrl": null,
+        "genres": [
+            "Komödie",
+            "Krimi"
+        ],
+        "description": "(*) Komödie * Deutschland * Regie: Ed Herzog;  * Drehbuch: ;(*) Darsteller: Sebastian Bezzel, Simon Schwarz, Lisa Maria Potthoff;Ein neuer Fall für das Dreamteam Franz Eberhofer und Rudi Birkenberger: Diesmal liegt der hiesige Steckerlfischkönig höchstselbst und mausetot in der Wellnesslandschaft des neuen Golfclubs. Der Franz ermittelt unter dubiosen Volksfestclans und golfenden Schickimickiarschlöchern, während seine Susi ganz andere Pläne hat: Sie kandidiert als Bürgermeisterin, was bei Franz und dem amtierenden Dorfoberhaupt hochgradig nervöse Zuckungen auslöst ... (Quelle: Verleih)",
+        "length": 99,
+        "rating_average": null,
+        "startingDate": "2026-08-13",
+        "poster_url": "https://api4.kinotickets.online/autokino-muenchen/api/v1/images/2217849_steckerlfischfiasko.jpg",
+        "technology_name": "2D",
+        "thisWeek": true
+    },
     "2279733": {
         "title": "Ice Cream Man",
         "fsk": 18,
@@ -96,6 +79,23 @@
         "rating_average": null,
         "startingDate": "2026-08-13",
         "poster_url": "https://api4.kinotickets.online/autokino-muenchen/api/v1/images/2279733_ice_cream_man.jpg",
+        "technology_name": "2D",
+        "thisWeek": true
+    },
+    "2273398": {
+        "title": "Dirty Dancing",
+        "fsk": 12,
+        "trailerUrl": null,
+        "genres": [
+            "Drama",
+            "Musik",
+            "Liebesfilm"
+        ],
+        "description": "(*) Musikfilm, Liebesfilm * USA * Regie: Emile Ardolino;  * Drehbuch: Eleanor Bergstein;(*) Darsteller: Cynthia Rhodes, Jack Weston, Jennifer Grey, Jerry Orbach, Patrick Swayze;Es soll die Zeit ihres Lebens werden. Aber als die 17-jährige Frances Houseman im Sommer '63 mit ihrer Familie in die Ferien fährt, sieht alles anfangs eher nach einem langweiligen und spießigen Urlaub mit den Eltern aus. Zumindest so lange, bis sie den Tanzlehrer Johnny kennen lernt und mit ihm die Liebe. Denn während er ihr das Tanzen beibringt, zeigt sie ihm, wie wichtig es ist, immer an sich zu glauben. Und so ist ihr letzter gemeinsamer Tanz nicht nur das Ende der Saison. Es ist mehr. (j.b.)",
+        "length": 100,
+        "rating_average": null,
+        "startingDate": "2026-08-20",
+        "poster_url": "https://api4.kinotickets.online/autokino-muenchen/api/v1/images/2273398_dirty_dancing.jpg",
         "technology_name": "2D",
         "thisWeek": true
     }
