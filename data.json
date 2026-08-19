@@ -1,7 +1,55 @@
 {
     "_meta": {
         "program_found_for_date": "19.08.2026",
-        "updated_at": "2026-08-19 09:06:42"
+        "updated_at": "2026-08-19 09:09:50"
+    },
+    "2299397": {
+        "title": "Spider-Man: Brand New Day",
+        "fsk": 12,
+        "trailerUrl": null,
+        "genres": [
+            "Science Fiction",
+            "Action",
+            "Abenteuer"
+        ],
+        "description": "(*) Action * USA * Regie: Destin Daniel Cretton;  * Drehbuch: ;(*) Darsteller: Tom Holland, Zendaya, Jacob Batalon, Sadie Sink, Jon Bernthal, Mark Ruffalo;Nach dem phänomenalen weltweiten Erfolg von \"Spider-Man: No Way Home\" schlägt SPIDER-MAN: BRAND NEW DAY ein völlig neues Kapitel für Peter Parker und Spider-Man auf. Vier Jahre sind seit den Ereignissen von \"No Way Home\" vergangen. Peter ist nun erwachsen und lebt für sich allein, nachdem er sich freiwillig aus dem Leben und den Erinnerungen derer, die er liebt, ausgelöscht hat. Er bekämpft Verbrechen in einem New York, das ihn und seinen Namen nicht mehr kennt, und widmet sich ganz dem Schutz seiner Stadt: Spider-Man in Vollzeit. Doch mit den steigenden Anforderungen löst der Druck eine überraschende körperliche Veränderung aus, die seine Existenz bedroht - gerade als eine seltsame neue Art von Verbrechen eine der mächtigsten Bedrohungen hervorbringt, denen er je gegenüberstand.",
+        "length": 140,
+        "rating_average": null,
+        "startingDate": "13.08.2026",
+        "poster_url": "https://api4.kinotickets.online/autokino-muenchen/api/v1/images/2299397_spider_man__brand_new_day.jpg",
+        "technology_name": "2D",
+        "thisWeek": true
+    },
+    "2217849": {
+        "title": "Steckerlfischfiasko",
+        "fsk": 12,
+        "trailerUrl": null,
+        "genres": [
+            "Komödie",
+            "Krimi"
+        ],
+        "description": "(*) Komödie * Deutschland * Regie: Ed Herzog;  * Drehbuch: ;(*) Darsteller: Sebastian Bezzel, Simon Schwarz, Lisa Maria Potthoff;Ein neuer Fall für das Dreamteam Franz Eberhofer und Rudi Birkenberger: Diesmal liegt der hiesige Steckerlfischkönig höchstselbst und mausetot in der Wellnesslandschaft des neuen Golfclubs. Der Franz ermittelt unter dubiosen Volksfestclans und golfenden Schickimickiarschlöchern, während seine Susi ganz andere Pläne hat: Sie kandidiert als Bürgermeisterin, was bei Franz und dem amtierenden Dorfoberhaupt hochgradig nervöse Zuckungen auslöst ... (Quelle: Verleih)",
+        "length": 99,
+        "rating_average": null,
+        "startingDate": "13.08.2026",
+        "poster_url": "https://api4.kinotickets.online/autokino-muenchen/api/v1/images/2217849_steckerlfischfiasko.jpg",
+        "technology_name": "2D",
+        "thisWeek": true
+    },
+    "2279733": {
+        "title": "Ice Cream Man",
+        "fsk": 18,
+        "trailerUrl": null,
+        "genres": [
+            "Horror"
+        ],
+        "description": "(*) Horrorfilm * USA * Regie: Eli Roth;  * Drehbuch: ;(*) Darsteller: Ari Millen, Benjamin Byron Davis, Karen Cliche;Ein charismatischer Eisverkäufer verteilt süße Leckereien an die Kinder - mit verheerenden Folgen. Unheimliche Vorfälle häufen sich und verderben den Bewohnern in der US-Kleinstadt Bayleen Bay den idyllischen Sommer.",
+        "length": 86,
+        "rating_average": null,
+        "startingDate": "13.08.2026",
+        "poster_url": "https://api4.kinotickets.online/autokino-muenchen/api/v1/images/2279733_ice_cream_man.jpg",
+        "technology_name": "2D",
+        "thisWeek": true
     },
     "2251847": {
         "title": "Obsession - Du sollst mich lieben",
@@ -34,22 +82,6 @@
         "technology_name": "2D",
         "thisWeek": false
     },
-    "2217849": {
-        "title": "Steckerlfischfiasko",
-        "fsk": 12,
-        "trailerUrl": null,
-        "genres": [
-            "Komödie",
-            "Krimi"
-        ],
-        "description": "(*) Komödie * Deutschland * Regie: Ed Herzog;  * Drehbuch: ;(*) Darsteller: Sebastian Bezzel, Simon Schwarz, Lisa Maria Potthoff;Ein neuer Fall für das Dreamteam Franz Eberhofer und Rudi Birkenberger: Diesmal liegt der hiesige Steckerlfischkönig höchstselbst und mausetot in der Wellnesslandschaft des neuen Golfclubs. Der Franz ermittelt unter dubiosen Volksfestclans und golfenden Schickimickiarschlöchern, während seine Susi ganz andere Pläne hat: Sie kandidiert als Bürgermeisterin, was bei Franz und dem amtierenden Dorfoberhaupt hochgradig nervöse Zuckungen auslöst ... (Quelle: Verleih)",
-        "length": 99,
-        "rating_average": null,
-        "startingDate": "13.08.2026",
-        "poster_url": "https://api4.kinotickets.online/autokino-muenchen/api/v1/images/2217849_steckerlfischfiasko.jpg",
-        "technology_name": "2D",
-        "thisWeek": true
-    },
     "2273398": {
         "title": "Dirty Dancing",
         "fsk": 12,
@@ -64,38 +96,6 @@
         "rating_average": null,
         "startingDate": "20.08.2026",
         "poster_url": "https://api4.kinotickets.online/autokino-muenchen/api/v1/images/2273398_dirty_dancing.jpg",
-        "technology_name": "2D",
-        "thisWeek": true
-    },
-    "2299397": {
-        "title": "Spider-Man: Brand New Day",
-        "fsk": 12,
-        "trailerUrl": null,
-        "genres": [
-            "Science Fiction",
-            "Action",
-            "Abenteuer"
-        ],
-        "description": "(*) Action * USA * Regie: Destin Daniel Cretton;  * Drehbuch: ;(*) Darsteller: Tom Holland, Zendaya, Jacob Batalon, Sadie Sink, Jon Bernthal, Mark Ruffalo;Nach dem phänomenalen weltweiten Erfolg von \"Spider-Man: No Way Home\" schlägt SPIDER-MAN: BRAND NEW DAY ein völlig neues Kapitel für Peter Parker und Spider-Man auf. Vier Jahre sind seit den Ereignissen von \"No Way Home\" vergangen. Peter ist nun erwachsen und lebt für sich allein, nachdem er sich freiwillig aus dem Leben und den Erinnerungen derer, die er liebt, ausgelöscht hat. Er bekämpft Verbrechen in einem New York, das ihn und seinen Namen nicht mehr kennt, und widmet sich ganz dem Schutz seiner Stadt: Spider-Man in Vollzeit. Doch mit den steigenden Anforderungen löst der Druck eine überraschende körperliche Veränderung aus, die seine Existenz bedroht - gerade als eine seltsame neue Art von Verbrechen eine der mächtigsten Bedrohungen hervorbringt, denen er je gegenüberstand.",
-        "length": 140,
-        "rating_average": null,
-        "startingDate": "13.08.2026",
-        "poster_url": "https://api4.kinotickets.online/autokino-muenchen/api/v1/images/2299397_spider_man__brand_new_day.jpg",
-        "technology_name": "2D",
-        "thisWeek": true
-    },
-    "2279733": {
-        "title": "Ice Cream Man",
-        "fsk": 18,
-        "trailerUrl": null,
-        "genres": [
-            "Horror"
-        ],
-        "description": "(*) Horrorfilm * USA * Regie: Eli Roth;  * Drehbuch: ;(*) Darsteller: Ari Millen, Benjamin Byron Davis, Karen Cliche;Ein charismatischer Eisverkäufer verteilt süße Leckereien an die Kinder - mit verheerenden Folgen. Unheimliche Vorfälle häufen sich und verderben den Bewohnern in der US-Kleinstadt Bayleen Bay den idyllischen Sommer.",
-        "length": 86,
-        "rating_average": null,
-        "startingDate": "13.08.2026",
-        "poster_url": "https://api4.kinotickets.online/autokino-muenchen/api/v1/images/2279733_ice_cream_man.jpg",
         "technology_name": "2D",
         "thisWeek": true
     }
